@@ -1,4 +1,4 @@
-artifact_path: model
+artifact_path: xgboost-model
 flavors:
   python_function:
     data: model.xgb
@@ -15,6 +15,6 @@ flavors:
     xgb_version: 2.1.1
 mlflow_version: 2.15.0
 model_size_bytes: 708183
-model_uuid: d354abe615ca4b63843849be957b8f30
-run_id: 3f3da09d1e544d0abc298a97f92b535c
-utc_time_created: '2024-08-03 19:23:02.972204'
+model_uuid: 2abc82f8a86f49d98312cbd68ee4b4d5
+run_id: 853e49ef71004c159997bfea58e99af4
+utc_time_created: '2024-08-08 12:30:50.517329'
